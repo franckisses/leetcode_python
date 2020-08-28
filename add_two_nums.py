@@ -39,10 +39,12 @@ class Solution:
             else:
                 result.append(temp % 10)
         result.append(a.val)
+        result.reverse()
         return result
+
 if __name__ == "__main__":
     a = Solution()
     l1 = [1,8,9,9]
     l2 = [9,9,9,3]
-    a.addTwoNumbers(l1,l2)
-
+    result = a.addTwoNumbers(l1,l2)
+    print(result)
