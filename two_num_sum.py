@@ -4,7 +4,7 @@ FileName :  two_num_sum.py
 DateTime :  2020/08/27 15:19:26
 Author   :  Gong Yan 
 Version  :  1.0
-Contact  :  yangong1@huawei.com
+Contact  :  franck_gxu@outlook.com
 Desc     :  find the first result that is add the two nums.
 '''
 

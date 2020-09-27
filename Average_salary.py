@@ -4,7 +4,7 @@ FileName :  Average_salary.py
 DateTime :  2020/08/28 11:50:54
 Author   :  Gong Yan 
 Version  :  1.0
-Contact  :  yangong1@huawei.com
+Contact  :  franck_gxu@outlook.com
 Desc     :  None
 Given an array of unique integers salary where salary[i] is the salary of the employee i.
 

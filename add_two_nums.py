@@ -4,7 +4,7 @@ FileName :  add_two_nums.py
 DateTime :  2020/08/27 15:49:53
 Author   :  Gong Yan 
 Version  :  1.0
-Contact  :  yangong1@huawei.com
+Contact  :  franck_gxu@outllok.com
 Des     :
 
 You are given two non-empty linked lists representing two non-negative integers. 

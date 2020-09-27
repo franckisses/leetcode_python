@@ -4,7 +4,7 @@ FileName :  Running_Sum_1d_Array.py
 DateTime :  2020/08/28 11:34:30
 Author   :  Gong Yan 
 Version  :  1.0
-Contact  :  yangong1@huawei.com
+Contact  :  franck_gxu@outlook.com
 Desc     :  None
 
 Example 1:
